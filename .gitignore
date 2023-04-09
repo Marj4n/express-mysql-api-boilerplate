@@ -37,3 +37,5 @@ typings
 # Optional REPL history
 .node_repl_history
 
+# package-lock.json (https://docs.npmjs.com/files/package-lock.json)
+package-lock.json
