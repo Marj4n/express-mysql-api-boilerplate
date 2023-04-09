@@ -1,6 +1,6 @@
 # express-mysql-api-boilerplate
 
-Express + MySQL API for User Management, Authentication and Registration
+A simple boilerplate for building RESTful API with Express and MySQL using JWT for authentication.
 
 ## DB Setup
 
