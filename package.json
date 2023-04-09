@@ -7,7 +7,7 @@
     "start": "node ./server.js",
     "start:dev": "nodemon ./server.js"
   },
-  "author": "",
+  "author": "Marjannnnnn",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -20,5 +20,22 @@
     "mysql2": "^3.2.0",
     "rootpath": "^0.1.2",
     "sequelize": "^6.30.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marjannnnnn/express-mysql-api-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "api",
+    "restapi",
+    "mysql",
+    "express",
+    "jwt"
+  ],
+  "bugs": {
+    "url": "https://github.com/Marjannnnnn/express-mysql-api-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Marjannnnnn/express-mysql-api-boilerplate#readme"
 }
