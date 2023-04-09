@@ -29,6 +29,7 @@ async function initialize() {
       dialect: "mysql",
     });
 
+    // init models and add them to the exported db object
     db.User = require("../users/user.model")(sequelize);
 
     await sequelize.sync();
